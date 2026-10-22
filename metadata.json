@@ -1,0 +1,6 @@
+{
+  "name": "CJK DocCraft - Cinese & Coreano PDF Editor",
+  "description": "Editor avanzato di documenti e PDF per cinese e coreano con font calligrafici, annotazioni Ruby/Pinyin, immagini con testo fluido, tabelle e liste CJK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
